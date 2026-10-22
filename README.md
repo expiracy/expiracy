@@ -1,15 +1,6 @@
 # James Gray
 
-Computer Systems Engineering at the University of Warwick. I build developer tools and work on machine learning for physiological signals.
-
-## What I'm building
-
-| Project | Focus |
-| --- | --- |
-| [GigaCode](https://github.com/expiracy/gigacode) | Multi-agent workflows for OpenCode 2, from investigation through implementation and review. |
-| [AutoCode](https://github.com/expiracy/autocode) | Model-based shell command approval with native OpenCode settings and review logs. |
-| [search++](https://github.com/expiracy/search-plus-plus) | Search files, text, symbols, usages, and commands from one VS Code popup. |
-| [PPG Sleep Staging with Mamba](https://github.com/expiracy/ppg-sleep-staging-mamba) | Efficient sleep staging from PPG waveforms using Mamba state-space models. |
+I'm a Quantitative Technology Analyst @ QRT. In my free time, I like building open source utilities and developer tools.
 
 ## GitHub activity
 
