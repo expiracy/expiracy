@@ -1,6 +1,6 @@
 # James Gray
 
-I'm a Quantitative Technology Analyst @ QRT. In my free time, I like building open source utilities and developer tools.
+Quant Tech @ QRT. I build open source utilities and developer tools.
 
 ## GitHub activity
 
