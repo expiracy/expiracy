@@ -1,6 +1,6 @@
 # James Gray
 
-Quant Tech @ QRT. I build open source utilities and developer tools, work on ML and AI, and write HDL for FPGAs.
+Quant Tech Analyst. I build open source utilities and developer tools, work on ML and AI, and write HDL for FPGAs.
 
 ## GitHub activity
 
