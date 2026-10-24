@@ -1,4 +1,4 @@
-# James
+# James Gray
 
 Quant Tech Analyst. I build open source utilities and developer tools, work on ML and AI, and write HDL for FPGAs.
 
